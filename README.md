@@ -39,3 +39,25 @@ git clone https://github.com/ajay7398/API-Tester-Tool.git
 cd api-tester-tool
 npm install
 npm run dev
+
+
+## How It Works
+Enter the API URL
+Select the HTTP Method (GET / POST / PUT / DELETE)
+(Optional) Add a JSON request body for POST/PUT requests
+Click Send to make the API call
+View the formatted JSON response and copy it if needed
+Access previous API requests from the History panel
+
+## Learning Outcomes
+Practical understanding of REST APIs
+Handling asynchronous requests using the Fetch API
+Using Local Storage for persistent data
+Component-based architecture with React
+UI design and layout management using Tailwind CSS
+
+## Future Improvements
+Support for Authorization headers (Bearer Token, API Key)
+Environment management (Development / Production)
+JSON response syntax highlighting
+Custom request headers editor
