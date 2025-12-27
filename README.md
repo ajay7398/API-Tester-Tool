@@ -42,22 +42,22 @@ npm run dev
 
 
 ## How It Works
-Enter the API URL
-Select the HTTP Method (GET / POST / PUT / DELETE)
-(Optional) Add a JSON request body for POST/PUT requests
-Click Send to make the API call
-View the formatted JSON response and copy it if needed
-Access previous API requests from the History panel
+1.Enter the API URL
+2.Select the HTTP Method (GET / POST / PUT / DELETE)
+3.(Optional) Add a JSON request body for POST/PUT requests
+4.Click Send to make the API call
+5.View the formatted JSON response and copy it if needed
+6.Access previous API requests from the History panel
 
 ## Learning Outcomes
-Practical understanding of REST APIs
-Handling asynchronous requests using the Fetch API
-Using Local Storage for persistent data
-Component-based architecture with React
-UI design and layout management using Tailwind CSS
+-Practical understanding of REST APIs
+-Handling asynchronous requests using the Fetch API
+-Using Local Storage for persistent data
+-Component-based architecture with React
+-UI design and layout management using Tailwind CSS
 
 ## Future Improvements
-Support for Authorization headers (Bearer Token, API Key)
-Environment management (Development / Production)
-JSON response syntax highlighting
-Custom request headers editor
+-Support for Authorization headers (Bearer Token, API Key)
+-Environment management (Development / Production)
+-JSON response syntax highlighting
+-Custom request headers editor
